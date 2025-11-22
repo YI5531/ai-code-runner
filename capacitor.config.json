@@ -1,0 +1,9 @@
+{
+  "appId": "com.yi.aicoderunner",
+  "appName": "AICodeRunner",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "cleartext": true
+  }
+}
